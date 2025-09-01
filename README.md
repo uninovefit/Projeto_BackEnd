@@ -1,2 +1,25 @@
-# Projeto_BackEnd
-"Repositório responsável pela lógica do sistema, desenvolvido em Node.js e integrado ao banco de dados MySQL. Contém as rotas, regras de negócio e comunicação entre o front-end e o banco de dados."
+
+---
+
+## 📂 **Backend – README.md**
+```markdown
+# ⚙️ Backend - Sistema de Cadastro
+
+Este repositório contém a parte **servidor** do sistema, desenvolvida em **Node.js** com banco de dados **MySQL**.  
+Aqui ficam as regras de negócio, o processamento e a comunicação com o banco.
+
+---
+
+## 🚀 Tecnologias utilizadas
+- Node.js
+- Express.js
+- MySQL
+
+---
+
+## 🖥️ Funcionalidades
+✅ API para cadastro de usuários  
+✅ Conexão com banco de dados MySQL  
+✅ Recebe dados do frontend e os armazena  
+
+---
