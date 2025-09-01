@@ -1,8 +1,3 @@
-
----
-
-## 📂 **Backend – README.md**
-```markdown
 # ⚙️ Backend - Sistema de Cadastro
 
 Este repositório contém a parte **servidor** do sistema, desenvolvida em **Node.js** com banco de dados **MySQL**.  
