@@ -1,0 +1,15 @@
+{
+  "name": "projeto_uninovefit",
+  "version": "1.0.0",
+  "description": "Projeto integrador para o terceiro semestre do curso de ADS na Uninove.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-handlebars": "^8.0.3"
+  }
+}
