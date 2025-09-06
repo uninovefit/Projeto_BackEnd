@@ -4,12 +4,11 @@
   "description": "Projeto integrador para o terceiro semestre do curso de ADS na Uninove.",
   "main": "index.js",
   "scripts": {
-    "start": "node ./src/index.js"
+    "start": "node --watch ./src/index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0",
-    "express-handlebars": "^8.0.3"
+    "express": "^5.1.0"
   }
 }
